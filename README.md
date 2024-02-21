@@ -11,7 +11,7 @@ This project demonstrates building a movie recommendation system based on collab
 1. Install required libraries:
 
     ```bash
-    pip install scikit-surprise
+    pip install -r requirements.txt
     ```
 
 2. Run the `main.py` script:
